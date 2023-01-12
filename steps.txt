@@ -1,0 +1,15 @@
+Creating connections using Ethernet and serial cable between devices
+configure devices:
+pc0--> ip address --> 
+...
+pc1
+router 0
+  fast ethernet..
+  
+..
+Configuring wireless router 
+Click on wireless router > GUI and set the address
+192.168.1.2
+Adding security mode as WEP and setting up key as 2a2a2a2a2a
+
+
